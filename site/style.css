@@ -1,0 +1,32 @@
+h1{
+    color: gold;
+    text-align: center;
+    background: transparent;
+    border: 5px;
+    border-color: gray;
+    padding: 0.5px;
+    border-style: solid
+}
+body{
+    background-image: url(fundo.png);
+    background-repeat: repeat;
+    background-size: 50%;
+}
+p{
+    color: lightblue;
+    text-align: center;
+}
+p{
+    color: gold;
+    text-align: center;
+    font-size: 300%;
+    border: 5px;
+    border-style: solid;
+    border-color: gray;
+    background: transparent;
+    padding: 0.5px;
+}
+img{
+    display: block;
+    margin: 0px auto;
+}
